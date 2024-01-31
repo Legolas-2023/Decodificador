@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="img/Vector.svg" type="image/x-icon">
+    <title>Decodificador De Texto</title>
+</head>
+<body>
+    <header id="fundo">
+        <div id="fundo_logo">
+            <a href="https://www.alura.com.br" target="_self">
+                <img src="img/Vector.svg" alt="logo_alura">
+            </a>
+        </div>
+    </header>
+    <menu class="menu-container">
+        <div id="campo_entrada">
+            <textarea name="text_enter" id="text_enter" cols="45" rows="10"  placeholder="Digite seu texto"></textarea>
+        </div>
+        <div id="subgroup">
+            <img src="img/Group.svg" alt="alerta">
+            <p>&nbsp;Apenas letras minúsculas e sem acento.</p>
+        </div>
+        <div class="cbt">
+            <button class="bt cripto" onclick="criptografar()">Criptografar</button>
+            <button class="bt descripto" onclick="descriptografar()">Descriptografar</button>
+        </div>
+    </menu>
+    <section class="container">
+        <div class="space-container area_txt">
+            <textarea name="area" id="area" cols="30" rows="10"></textarea>
+        </div>
+
+        <div id="group">
+            <div id="element_group">
+                <div class="space-container svg_logo">
+                    <img src="img/High quality products 1 1.svg" alt="procurando_texto">
+                </div>
+                <div class="space-container text">
+                    <h3>Nenhuma mensagem encontrada</h3>
+                    <p>Digite um texto que você deseja criptografar ou descriptografar.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="space-container btn">
+            <button id="btn_copy" onclick="copiar()">Copiar</button>
+        </div>
+    </section>
+    <footer class="copyright">
+        <p>&copy;2024 Desenvolvido por Crystian Tasca
+            <a target="_self" href="https://www.linkedin.com/in/crystian-tasca-mattos-234716197">
+                <img src="img/linkedin.svg" alt="logo_linkedin">
+            </a>
+            <a target="_self" href="https://www.github.com/Legolas-2023">
+                <img src="img/github.svg" alt="logo_github">
+            </a>
+        </p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
