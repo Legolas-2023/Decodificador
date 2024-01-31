@@ -3,15 +3,14 @@ let area2 = document.getElementById('area');
 let btcopiar = document.getElementById('btn_copy');
 let remover = document.getElementById('group');
 
-    area1.onkeypress = function(e) {
-        var chr = String.fromCharCode(e.which);
-        if ("qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM ".indexOf(chr) < 0)
-            return false;
-    };
-
+   
 function criptografar(){
     if(area1.value == ''){
         alert('Insira algum texto a ser criptografado!');
+    }else if(/^[a-z][a-z\s]*$/i.test(area1.value) === false){
+        alert('Insira apenas letras minúsculas e sem acento.')
+        area1.value = '';
+        return;
     }else{
         btcopiar.style.display = 'block';
         remover.style.display = 'none';
