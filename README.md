@@ -48,10 +48,19 @@
 </div>
 
 ## :hammer: Funcionalidades do Projeto
-- `Funcionalidade 1`: Ao digitar o texto, clique no botão criptografar em resultado todas as vogais desse texto serão mudadas para um novo texto.
+- `Funcionalidade 1`: Ao digitar o texto clique no botão criptografar, em resultado todas as vogais desse texto serão mudadas para um novo texto.
 
-- `Funcionalidade 2`: Apresenta uma tabela com os graus do IMC apenas clicando no botão `Graus do IMC`.
+![1](https://github.com/Legolas-2023/Decodificador/assets/151743336/006f4ee4-83c5-42cb-a8c4-211acf6f0937)
 
+
+- `Funcionalidade 2`: Caso queira o texto ao normal, basta clicar em descriptografar.
+
+![2](https://github.com/Legolas-2023/Decodificador/assets/151743336/457627a0-957a-4f00-a5ce-207616582689)
+
+- `Funcionalidade 3`: Por fim, é possível copiar o texto ao final da criptografia ou descriptografia.
+
+![3](https://github.com/Legolas-2023/Decodificador/assets/151743336/92873288-6cd2-45af-9e6c-77b85fba8b97)
+  
 ## 📁 Acesso ao projeto
 Você pode acessar a página web clicando [aqui](https://decodificador-gilt.vercel.app).
 
@@ -66,5 +75,5 @@ Você pode acessar a página web clicando [aqui](https://decodificador-gilt.verc
 
  The [MIT](https://github.com/Legolas-2023/IMC/blob/main/LICENSE) License (MIT)
 
-Copyright ©️ 2024 - IMC
+Copyright ©️ 2024 - Decodificador de Texto
 </div>
