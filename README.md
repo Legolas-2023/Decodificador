@@ -13,7 +13,7 @@
 ## :bookmark_tabs:Sobre
   <p>
    
-   O projeto decodificador é um desafio feito pela [Alura](https://www.alura.com.br) do programa ONE ORACLE - Fase Seleção T6 que consiste em criptografar e descriptografar as vogais por palavras específicas, como por exemplo:
+   O projeto decodificador é um challenge feito pela [Alura](https://www.alura.com.br) do programa ONE ORACLE - Fase Seleção T6 que consiste em criptografar e descriptografar as vogais por palavras específicas, como por exemplo:
 
   </p>
 
@@ -29,7 +29,7 @@
 
 <p>
   
-  O sistema não permite que o usuário digite letra maiúsculas, números,caracteres especiais(#&._@%$..) e acentuação de palavras(à,é,í,ô,ú), caso o usuário venha a digitar será exibido um alerta e o programa não rodará.
+  O sistema não permite que o usuário digite letra maiúsculas, números,caracteres especiais(#&._@%$..) e nem acentuação de vogais(à,é,í,ô,ú). Caso o usuário venha a digitar será exibido um alerta e o programa não rodará.
 </p>
 
 ![image](https://github.com/Legolas-2023/Decodificador/assets/151743336/02d1a122-850b-4bdb-ae1c-7d3bb8274203)
