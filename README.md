@@ -78,7 +78,7 @@ Você pode acessar a página web clicando [aqui](https://decodificador-gilt.verc
  
  ## :books:Licença
 
- The [MIT](https://github.com/Legolas-2023/IMC/blob/main/LICENSE) License (MIT)
+ The [MIT](https://github.com/Legolas-2023/Decodificador/blob/main/LICENSE) License (MIT)
 
 Copyright ©️ 2024 - Decodificador de Texto
 </div>
