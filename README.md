@@ -53,7 +53,7 @@
 - `Funcionalidade 2`: Apresenta uma tabela com os graus do IMC apenas clicando no botão `Graus do IMC`.
 
 ## 📁 Acesso ao projeto
-Você pode acessar a página web clicando [aqui](https://imc-mauve.vercel.app).
+Você pode acessar a página web clicando [aqui](https://decodificador-gilt.vercel.app).
 
 ## :bust_in_silhouette:Autor
 
