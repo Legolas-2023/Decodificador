@@ -224,6 +224,7 @@ div#rodape_texto{
 @media (max-width:1024px){
     section.criptografar{
         padding: 168px 0 0 200px;
+        text-align: center;
     }
 }
 
