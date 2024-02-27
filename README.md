@@ -11,7 +11,12 @@
 </div>
 
 ## :bookmark_tabs:Sobre
-  <p>O projeto consiste em criptografar as vogais por palavras específicas, como por exemplo: .</p>
+  <p>
+   
+   O projeto decodificador é um desafio feito pela [Alura](https://www.alura.com.br) do programa ONE ORACLE - Fase Seleção T6 que consiste em criptografar e descriptografar as vogais por palavras específicas, como por exemplo:
+
+  </p>
+
 <div>
   
   -`a` -> `ai` <br>
